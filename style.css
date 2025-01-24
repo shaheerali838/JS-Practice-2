@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    left: 50%;
+}
+
+a {
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+    text-decoration: none;
+}
+
+ul {
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+
+    text-decoration: none;
+    font-style: normal;
+}
+
+li {
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    font-style: normal;
+}
